@@ -1,0 +1,19 @@
+{
+  "name": "nerse-hello",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "remove",
+    "array",
+    "duplicates"
+  ],
+  "author": "ege-nerse <egenerse@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.0.3"
+  }
+}
